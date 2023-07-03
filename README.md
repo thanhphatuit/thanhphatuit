@@ -36,11 +36,6 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-<h2>⭐⭐ About Some Statistics ⭐⭐</h2>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mynhungg&theme=radical)](https://git.io/streak-stats)
-
-
 <h2>🏆🏆 My Certificates 🏆🏆</h2>
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
