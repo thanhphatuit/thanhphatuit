@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=500&color=7C06CF&vCenter=true&width=900&lines=%E3%80%8C+I+am+a+Back+End+Developer+/+Data+Analyst+VietNam)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=AE32E6&vCenter=true&width=900&lines=%E3%80%8C+I'm+deeply+passionate+about+working+in+the+field+of+Back+End+and+Data+%E3%80%8D)](https://git.io/typing-svg)
 
-<img align="right" width="300" src="https://github.com/mynhungg/mynhungg/assets/84914537/aff5d8df-ba47-46a7-b2cf-95b43d7e58a0" alt="thanhphat" /> 
+<img align="right" width="300" src="https://github.com/thanhphatuit/thanhphatuit/assets/84914537/b0112cb1-7858-4b6d-a63e-ac33b7f76b08" alt="thanhphat" /> 
 
 - 📫 How to reach me **<nguyenthanhphat2669@gmail.com>**
 
@@ -35,16 +35,6 @@
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
-<h2>🏆🏆 My Certificates 🏆🏆</h2>
-
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-
-[Overview of Data Visualization](https://www.coursera.org/account/accomplishments/certificate/KA49H2VAYNHP)
-
-[Start the UX Design Process: Empathize, Define, and Ideate](https://www.coursera.org/account/accomplishments/certificate/T8XF7A32PRN3)
-
-[Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/certificate/3UW2RTCTYYJJ)
 
 <h2>Thanks for Viewing</h2>
 
