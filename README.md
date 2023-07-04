@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **<nguyenthanhphat2669@gmail.com>**
 
-- 📄 Know about my experiences [https://mynhungg.github.io/myCV/](https://mynhungg.github.io/myCV/) 
+- 📄 Know about my experiences [https://thanhphatuit.github.io/portfolio_thanhphat/](https://thanhphatuit.github.io/portfolio_thanhphat/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
