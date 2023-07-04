@@ -15,21 +15,21 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyenthanhphat" height="30" width="40" />
     </a>
 </p>
-<h2>⚒️⚒️_Programs & Tools_⛏️⛏️</h2>
-<h3>📦📦Database📦📦</h3>
+<h2>💻_Programs & Tools_💻</h2>
+<h3>⚙⚙Database⚙⚙</h3>
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/orcale-gray.svg?style=for-the-badge&logo=oracle&logoColor=red)
 
-<h3>🎨🎨Language🎨🎨</h3>
+<h3>⚔⚔Language⚔⚔</h3>
 
 ![PHP](https://img.shields.io/badge/php-purple.svg?style=for-the-badge)
-![Java](https://img.shields.io/badge/java-white.svg?style=for-the-badge)
+![Java](https://img.shields.io/badge/java-gray.svg?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge)
 
 
-<h3>🥅🥅 Other 🥅🥅</h3>
+<h3>📎📎 Other 📎📎</h3>
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
