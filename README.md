@@ -20,11 +20,13 @@
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/orcale-gray.svg?style=for-the-badge&logo=oracle&logoColor=red)
 
 <h3>🎨🎨Language🎨🎨</h3>
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![PHP](https://img.shields.io/badge/php-purple.svg?style=for-the-badge)
+![Java](https://img.shields.io/badge/java-white.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge)
 
 
 <h3>🥅🥅 Other 🥅🥅</h3>
