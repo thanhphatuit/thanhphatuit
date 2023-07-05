@@ -1,7 +1,7 @@
 [![MasterHead](https://th.bing.com/th/id/R.ecf7a330d9e84dfba00985d621ec2ff1?rik=LsbFtCDcxtNzNA&pid=ImgRaw&r=0)](https://github.com/thanhphatuit)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=500&color=7C06CF&vCenter=true&width=900&lines=%E3%80%8C+I+am+a+Back+End+Developer+/+Data+Analyst+VietNam)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=AE32E6&vCenter=true&width=900&lines=%E3%80%8C+I'm+deeply+passionate+about+working+in+the+field+of+Back+End+and+Data+%E3%80%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=500&color=7C06CF&vCenter=true&width=900&lines=%E3%80%8C+I+am+a+Back+End+Developer+/+Data+Engineer+VietNam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=AE32E6&vCenter=true&width=900&lines=%E3%80%8C+I'm+deeply+passionate+about+working+in+the+field+of+Back+End+and+Data+Engineer)](https://git.io/typing-svg)
 
 <img align="right" width="300" src="https://github.com/thanhphatuit/thanhphatuit/assets/84914537/b0112cb1-7858-4b6d-a63e-ac33b7f76b08" alt="thanhphat" /> 
 
