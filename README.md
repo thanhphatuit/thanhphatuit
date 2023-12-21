@@ -25,7 +25,6 @@
 <h3>⚔⚔Language⚔⚔</h3>
 
 ![PHP](https://img.shields.io/badge/php-purple.svg?style=for-the-badge)
-![Java](https://img.shields.io/badge/java-gray.svg?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge)
 
 
