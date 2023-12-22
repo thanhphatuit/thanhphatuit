@@ -5,9 +5,7 @@
 
 <img align="right" width="300" src="https://github.com/thanhphatuit/thanhphatuit/assets/84914537/b0112cb1-7858-4b6d-a63e-ac33b7f76b08" alt="thanhphat" /> 
 
-- 📫 How to reach me **<nguyenthanhphat2669@gmail.com>**
-
-- 📄 Know about my experiences [https://thanhphatuit.github.io/portfolio_thanhphat/](https://thanhphatuit.github.io/portfolio_thanhphat/) 
+- 📫 How to reach me **<thanhphatnguyen2609@gmail.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
