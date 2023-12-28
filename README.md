@@ -14,4 +14,4 @@
 - Linkedln: **<https://www.linkedin.com/in/thanh-phat-nguyen-65a7432a6/>**
 
 
-Thanks for viewing. I'm always open to interesting conversations and collaboration
+#### Thanks for viewing. I'm always open to interesting conversations and collaboration. ####
