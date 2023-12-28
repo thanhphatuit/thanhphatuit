@@ -7,7 +7,8 @@
 - 📝 At present, I am learning Azure.
 - 😅 A fun fact: One years ago, I really want to be a back end developer but after two week learnning about OLAP(Online Analytical Processing) and find the interesting of data i would want to be a data engineer.
 
-- 📫 How to reach me **<thanhphatnguyen2609@gmail.com>**. I'm always open to interesting conversations and collaboration.
+- 📫 How to reach me: **<thanhphatnguyen2609@gmail.com>**.
 
+I'm always open to interesting conversations and collaboration.
 
 <h2>Thanks for Viewing</h2>
