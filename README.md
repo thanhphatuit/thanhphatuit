@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/R.ecf7a330d9e84dfba00985d621ec2ff1?rik=LsbFtCDcxtNzNA&pid=ImgRaw&r=0)](https://github.com/thanhphatuit)
 
-# I am a Data Engineer newbie.
+## 💁‍♂️ I am a Data Engineer newbie.
 
 - 📖 Majoring in **Information Systems** at University of Information Technology - UIT
 - 🎓 My interests lie in Hadoop, Spark, Superset, Kafka, Azure Portal, ....
