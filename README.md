@@ -3,7 +3,7 @@
 ## 💁‍♂️ I am a Data Engineer newbie.
 
 - 📖 Majoring in **Information Systems** at University of Information Technology - UIT
-- 🎓 My interests lie in **Hadoop, Spark,** Superset, Kafka, Azure Portal, ....
+- 🎓 My interests lie in **Hadoop, Spark, Superset, Kafka, Azure, ....**
 - 🔭 I am constantly building a **data pipeline, platform, architect** for project with a **specific data on the internet**, but unfortunately, some project is not reality enough. If i have a chance working for a company i will do my best.
 - 📝 At present, I am learning **Azure**.
 - 😅 A fun fact: One years ago, I really want to be a back end developer but after two weeks learnning about **OLAP** (Online Analytical Processing) and find the **interesting of data** i would want to be a **data engineer**.
