@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.ecf7a330d9e84dfba00985d621ec2ff1?rik=LsbFtCDcxtNzNA&pid=ImgRaw&r=0)](https://github.com/thanhphatuit)
+<img src="https://github.com/user-attachments/assets/c2ad2e5b-741b-4852-a123-89547d6b8308" width="1200" height="300" alt="MasterHead">
 
 ## 💁‍♂️ I am a Data Engineer newbie.
 
